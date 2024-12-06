@@ -49,6 +49,7 @@ Template Matching сравнивает небольшой участок изо�
 ![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img0.jpg)
 ![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img1.jpg)
 ![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img2.jpg)
+
 Второй шаблон:
 ![alt text](https://github.com/Okoyaki/CV-Lab2/blob/e72bb86337304a281ef152cf995fe143d0fa9bce/data/result/kp/temp_add/img0.jpg)
 ![alt text](https://github.com/Okoyaki/CV-Lab2/blob/e72bb86337304a281ef152cf995fe143d0fa9bce/data/result/kp/temp_add/img1.jpg)
@@ -56,4 +57,4 @@ Template Matching сравнивает небольшой участок изо�
 
 ## Выводы по работе
 
-В результате выполнения работы оба алгоритма успешно справились с поставленной задачей: были успешно угаданы оба вида эталонов для каждого изображения
+В результате выполнения работы оба алгоритма успешно справились с поставленной задачей: были успешно найдены оба вида эталонов для каждого изображения
