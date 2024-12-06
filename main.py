@@ -54,6 +54,6 @@ if __name__ == '__main__':
     
     for i in range(len(imgs)):
         img = cv2.imread('data/orig/images/'+imgs[i])
-        img_temp = cv2.imread('data/orig/images/'+temps[i])
+        img_temp = cv2.imread('data/orig/templates/'+temps[i])
         kp_detection(img, img_temp,i)
         temp_matching(img, img_temp,i)

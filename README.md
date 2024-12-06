@@ -17,6 +17,18 @@ Template Matching сравнивает небольшой участок изо�
 
 Для реализации алгоритма SIFT был использован набор функций по поиску и сопоставлению ключевых точек из OpenCV.
 
-Ниже приведен пример исходных изображений и эталоны, использованные при поиски:
+Ниже приведен пример исходных изображений и эталоны, использованные при поиске:
 
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/images/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates_add/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/images/img2.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates/img2.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates_add/img2.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/images/img3.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates/img3.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/24a52a2084a045c0af6055c0f15c0bcb113fd38d/data/orig/templates_add/img3.jpg)
+
+## Результаты работы и тестирования системы
+В результате выполнения алгоритмов были получены изображения с обозначенными в рамках обнаруженные эталонные объекты:
 
