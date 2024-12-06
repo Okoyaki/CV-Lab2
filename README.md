@@ -32,3 +32,21 @@ Template Matching сравнивает небольшой участок изо�
 ## Результаты работы и тестирования системы
 В результате выполнения алгоритмов были получены изображения с обозначенными в рамках обнаруженные эталонные объекты:
 
+### 1. Сопоставление шаблонов
+Первый шаблон:
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp/img0.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp/img2.jpg)
+
+Второй шаблон:
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp_add/img0.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp_add/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/tm/temp_add/img2.jpg)
+
+### 2. Алгоритм SIFT
+Первый шаблон:
+
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img0.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img1.jpg)
+![alt text](https://github.com/Okoyaki/CV-Lab2/blob/eb5e409a981cf60fe3654e5671f92c4b0ced2e64/data/result/kp/temp/img2.jpg)
+Второй шаблон:
